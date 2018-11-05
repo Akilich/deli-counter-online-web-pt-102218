@@ -12,4 +12,4 @@ else
 end
 puts "The line is currently: #{other_deli.join(" ")}"
 end
-
+end
